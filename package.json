@@ -1,0 +1,7 @@
+{
+  "name": "jenerate",
+  "version": "0.0.0-prealpha",
+  "dependencies": {
+    "js-yaml": "3.x"
+  }
+}

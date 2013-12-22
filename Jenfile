@@ -1,0 +1,13 @@
+compile:
+  inherit:
+    'asdf'
+  runcfg:
+    cmd: 'echo hello world'
+#  requires:
+#    - test
+
+test:
+  runcfg:
+    cmd: 'echo asdf qwer'
+  requires:
+    - compile
