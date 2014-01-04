@@ -1,13 +1,4 @@
 
-Build system
+2 Hour project exploring writing a task runner
+with dependencies using yaml for formatting.
 
-types of triggers:
-
-- Depenencies/requirements (e.g. compile before test)
-- Triggers (manual or automatic)
-
-    A -- B -- D
-     \       /
-      -- C -- 
-      \     /
-       - E -
